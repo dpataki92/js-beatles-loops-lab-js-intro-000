@@ -8,7 +8,7 @@ function theBeatlesPlay (musicians, instruments) {
   }
 
   return arr;
-  
+
 }
 
 function johnLennonFacts (facts) {
@@ -18,7 +18,7 @@ function johnLennonFacts (facts) {
   for (let char of facts) {arr.push(char + '!!!')};
 
   return arr;
-  
+
 }
 
 function iLoveTheBeatles (num) {
